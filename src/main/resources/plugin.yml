@@ -6,3 +6,14 @@ load: STARTUP
 authors: [ Null ]
 description: Minecraft Plugin
 website: https://github.com/senganull
+
+commands:
+  hello:
+    description: プレイヤーに挨拶をします。
+    usage: /hello
+    permission: hellodice.hello
+
+  dice:
+    description: 1〜6のサイコロを振ります。
+    usage: /dice
+    permission: hellodice.dice
