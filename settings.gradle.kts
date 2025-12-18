@@ -1,0 +1,1 @@
+rootProject.name = "Null_HelloDice_Plugin"
