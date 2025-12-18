@@ -1,2 +1,21 @@
 # プロジェクトの除外パス
 /.gradle/
+
+# Gradle files
+.gradle/
+build/
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Java class files
+*.class
+
+# System files
+.DS_Store
+Thumbs.db
