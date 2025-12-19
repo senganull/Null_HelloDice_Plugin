@@ -3,7 +3,7 @@ version: '1.0-SNAPSHOT'
 main: com.github.senganull.Null_HelloDice_Plugin
 api-version: '1.20'
 load: STARTUP
-authors: [ Null ]
+authors: [ "SengaNull" ]
 description: Minecraft Plugin
 website: https://github.com/senganull
 

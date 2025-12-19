@@ -11,7 +11,6 @@ public final class Null_HelloDice_Plugin extends JavaPlugin {
         // Plugin startup logic
         // ログには「緊急（Error）」「警告（Warning）」「通常情報（Info）」などのランクがある
         getLogger().info("正常に起動しました。");
-
     }
 
     @Override
