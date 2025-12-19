@@ -1,3 +1,32 @@
-[12:35:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'C:\Users\senga\IdeaProjects\Minecraft_Plugin\Null_HelloDice_Plugin\build\libs\Null_HelloDice_Plugin-1.0-SNAPSHOT.jar'...
-[12:35:30] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'C:\Users\senga\IdeaProjects\Minecraft_Plugin\Null_HelloDice_Plugin\build\libs\Null_HelloDice_Plugin-1.0-SNAPSHOT.jar' in 305ms.
-[12:35:34] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[16:55:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:55:22] [ServerMain/INFO]: Loaded 1175 recipes
+[16:55:22] [ServerMain/INFO]: Loaded 1276 advancements
+[16:55:22] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:55:22] [Server thread/INFO]: Loading properties
+[16:55:22] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[16:55:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:55:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:55:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[16:55:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[16:55:24] [Server thread/INFO]: Default game type: SURVIVAL
+[16:55:24] [Server thread/INFO]: Generating keypair
+[16:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:55:24] [Server thread/INFO]: Using default channel type
+[16:55:24] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[16:55:24] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] Loading server plugin Null_HelloDice_Plugin v1.0-SNAPSHOT
+[16:55:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] Enabling Null_HelloDice_Plugin v1.0-SNAPSHOT
+[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] 正常に起動しました。
+[16:55:24] [Server thread/INFO]: Preparing level "world"
+[16:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:55:25] [Server thread/INFO]: Time elapsed: 761 ms
+[16:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:55:25] [Server thread/INFO]: Time elapsed: 60 ms
+[16:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:55:25] [Server thread/INFO]: Time elapsed: 45 ms
+[16:55:25] [Server thread/INFO]: Running delayed init tasks
+[16:55:25] [Server thread/INFO]: Done (2.784s)! For help, type "help"
+[16:55:25] [Server thread/INFO]: Timings Reset

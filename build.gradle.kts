@@ -46,5 +46,7 @@ tasks {
     runServer {
         // テストサーバーのバージョン指定
         minecraftVersion("1.20.6")
+        // 以下の設定を追加: サーバー起動時にUTF-8を強制する
+        jvmArgs("-Dfile.encoding=UTF-8")
     }
 }
