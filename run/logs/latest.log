@@ -1,32 +1,67 @@
-[16:55:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:55:22] [ServerMain/INFO]: Loaded 1175 recipes
-[16:55:22] [ServerMain/INFO]: Loaded 1276 advancements
-[16:55:22] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[16:55:22] [Server thread/INFO]: Loading properties
-[16:55:22] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
-[16:55:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:55:23] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:55:23] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[14:10:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:10:35] [ServerMain/INFO]: Loaded 1175 recipes
+[14:10:35] [ServerMain/INFO]: Loaded 1276 advancements
+[14:10:35] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[14:10:35] [Server thread/INFO]: Loading properties
+[14:10:35] [Server thread/INFO]: This server is running Paper version 1.20.6-151-ver/1.20.6@a4f0f5c (2024-10-30T19:13:22Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[14:10:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:10:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:10:36] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[16:55:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
-[16:55:24] [Server thread/INFO]: Default game type: SURVIVAL
-[16:55:24] [Server thread/INFO]: Generating keypair
-[16:55:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:55:24] [Server thread/INFO]: Using default channel type
-[16:55:24] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[16:55:24] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] Loading server plugin Null_HelloDice_Plugin v1.0-SNAPSHOT
-[16:55:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] Enabling Null_HelloDice_Plugin v1.0-SNAPSHOT
-[16:55:24] [Server thread/INFO]: [Null_HelloDice_Plugin] 正常に起動しました。
-[16:55:24] [Server thread/INFO]: Preparing level "world"
-[16:55:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:55:25] [Server thread/INFO]: Time elapsed: 761 ms
-[16:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:55:25] [Server thread/INFO]: Time elapsed: 60 ms
-[16:55:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:55:25] [Server thread/INFO]: Time elapsed: 45 ms
-[16:55:25] [Server thread/INFO]: Running delayed init tasks
-[16:55:25] [Server thread/INFO]: Done (2.784s)! For help, type "help"
-[16:55:25] [Server thread/INFO]: Timings Reset
+[14:10:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[14:10:36] [Server thread/INFO]: Default game type: SURVIVAL
+[14:10:36] [Server thread/INFO]: Generating keypair
+[14:10:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:10:36] [Server thread/INFO]: Using default channel type
+[14:10:36] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:10:36] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:10:37] [Server thread/INFO]: [Null_HelloDice_Plugin] Loading server plugin Null_HelloDice_Plugin v1.0-SNAPSHOT
+[14:10:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:10:37] [Server thread/INFO]: [Null_HelloDice_Plugin] Enabling Null_HelloDice_Plugin v1.0-SNAPSHOT
+[14:10:37] [Server thread/INFO]: [Null_HelloDice_Plugin] 正常に起動しました。
+[14:10:37] [Server thread/INFO]: Preparing level "world"
+[14:10:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:10:38] [Server thread/INFO]: Time elapsed: 763 ms
+[14:10:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:10:38] [Server thread/INFO]: Time elapsed: 89 ms
+[14:10:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:10:38] [Server thread/INFO]: Time elapsed: 59 ms
+[14:10:38] [Server thread/INFO]: Running delayed init tasks
+[14:10:38] [Server thread/INFO]: Done (3.002s)! For help, type "help"
+[14:10:38] [Server thread/INFO]: Timings Reset
+[21:55:27] [User Authenticator #0/INFO]: UUID of player Roito_HNW is 3dc1f730-e619-495e-9ce8-7e6362cd825a
+[21:55:28] [Server thread/INFO]: Roito_HNW joined the game
+[21:55:28] [Server thread/INFO]: Roito_HNW[/127.0.0.1:50632] logged in with entity id 16 at ([world]1.5, 107.0, 6.5)
+[21:55:38] [Server thread/INFO]: Roito_HNW issued server command: /plugins
+[22:08:49] [Server thread/INFO]: Roito_HNW was shot by Skeleton
+[22:09:14] [Server thread/INFO]: Roito_HNW lost connection: Disconnected
+[22:09:14] [Server thread/INFO]: Roito_HNW left the game
+[22:57:41] [Server thread/INFO]: Stopping the server
+[22:57:41] [Server thread/INFO]: Stopping server
+[22:57:41] [Server thread/INFO]: [Null_HelloDice_Plugin] Disabling Null_HelloDice_Plugin v1.0-SNAPSHOT
+[22:57:41] [Server thread/INFO]: [Null_HelloDice_Plugin] 正常に停止しました。
+[22:57:41] [Server thread/INFO]: Saving players
+[22:57:42] [Server thread/INFO]: Saving worlds
+[22:57:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saved 358 block chunks, 112 entity chunks, 1 poi chunks in world 'world' in 0.52s
+[22:57:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:57:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[22:57:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:57:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[22:57:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[22:57:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:57:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:57:42] [Server thread/INFO]: Flushing Chunk IO
+[22:57:42] [Server thread/INFO]: Closing Thread Pool
+[22:57:42] [Server thread/INFO]: Closing Server
