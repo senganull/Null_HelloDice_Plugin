@@ -12,6 +12,10 @@ public final class Null_HelloDice_Plugin extends JavaPlugin {
         // ログには「緊急（Error）」「警告（Warning）」「通常情報（Info）」などのランクがある
         getLogger().info("正常に起動しました。");
         getServer().getPluginManager().registerEvents(new JoinListener(), this);
+
+        //コマンド登録
+        getCommand("hello").setExecutor(new HelloCommand());
+        getCommand("dice").setExecutor(new DiceCommand());
     }
 
     @Override
